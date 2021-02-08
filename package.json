@@ -1,0 +1,25 @@
+{
+  "name": "timmy",
+  "version": "0.0.1",
+  "description": "Timer app made using eletron, just to get the first hand of it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrommel/timmy.git"
+  },
+  "author": "Rommel Manalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrommel/timmy/issues"
+  },
+  "homepage": "https://github.com/iamrommel/timmy#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "electron": "^11.2.3",
+    "electron-reloader": "^1.2.0"
+  }
+}
