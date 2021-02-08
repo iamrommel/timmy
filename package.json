@@ -19,6 +19,7 @@
   "homepage": "https://github.com/iamrommel/timmy#readme",
   "devDependencies": {
     "cross-env": "^7.0.3",
+    "dotenv": "^8.2.0",
     "electron": "^11.2.3",
     "electron-reloader": "^1.2.0"
   }
